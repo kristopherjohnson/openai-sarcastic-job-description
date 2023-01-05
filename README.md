@@ -12,7 +12,7 @@ You will need the Jupyter tools to run the notebook. See
 You will also need to install the `openai` and `python-dotenv` modules, which
 you can do with this command:
 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 Finally, you need an OpenAI account and an API key.  Go to
 <https://openai.com/api/> to create an account.  After creating an account or
